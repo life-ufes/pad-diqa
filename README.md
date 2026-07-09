@@ -24,7 +24,7 @@ The complete images and anotations of the dataset will be available after paper 
 ## Model
 
 <div align="center">
-  <img src="./assets/pipeline_model.png" alt="Example" height=500/>
+  <img src="./assets/pipeline_model.png" alt="Example"/>
 </div>
 
 
@@ -60,5 +60,5 @@ The following parameters are available:
 ### Metrics
 
 <div align="center">
-  <img src="./assets/metrics.png" alt="Example" height=500/>
+  <img src="./assets/metrics.png" alt="Example"/>
 </div>
