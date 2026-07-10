@@ -54,7 +54,7 @@ The following parameters are available:
 ### General Perception MOS Distribution
 
 <div align="center">
-  <img src="./assets/general_perception_distribution.webp" alt="Example" height=500/>
+  <img src="./assets/general_perception_distribution.png" alt="Example" height=500/>
 </div>
 
 ### Metrics
