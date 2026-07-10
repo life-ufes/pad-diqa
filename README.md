@@ -2,7 +2,7 @@
 
 PAD-DIQA is the first publicly available dermatological image quality assessment (DIQA) dataset annotated with continuous Mean Opinion Scores (MOS). This repository provides the dataset, annotation protocol and source code presented in the paper:
 
-Download paper: link
+Download paper: *soon*
 
 The goal of this repository is to support reproducible research on dermatological image quality assessment and quality-aware AI pipelines for skin lesion analysis.
 
@@ -18,8 +18,8 @@ The dataset consists of 2,500 clinical images of skin lesions annotated with Mea
 - Interference
 - General Perception
 
-The complete annotation guidelines used by all six annotators to assess each quality criterion are available here (link).
-The complete images and anotations of the dataset will be available after paper acceptance.
+tempo
+For review purposes, the complete images and anotations of the dataset are temporarily available at [Google Drive](https://drive.google.com/drive/u/0/folders/1xi1jHII4YF4P2FfdHVlc37CpqVHwd8MI). Upon acceptance, a permanent dataset repository with full documentation will be made publicly available. 
 
 ## Model
 
