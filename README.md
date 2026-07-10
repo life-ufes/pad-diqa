@@ -1,4 +1,4 @@
-# DIQA-Lite: An Open MOS-annotated dataset and lightweight model for dermatological image quality assessment
+# An Open Dataset and Lightweight Model for Dermatological Image Quality Assessment
 
 PAD-DIQA is the first publicly available dermatological image quality assessment (DIQA) dataset annotated with continuous Mean Opinion Scores (MOS). This repository provides the dataset, annotation protocol and source code presented in the paper:
 
