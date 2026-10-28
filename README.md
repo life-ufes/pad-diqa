@@ -9,6 +9,13 @@ The goal of this repository is to support reproducible research on dermatologica
 
 ## Dataset and Annotation Protocol
 
+
+
+The PAD-DIQA dataset is available [here](https://data.mendeley.com/datasets/zr7vgbcyr2/1).
+
+
+## Dataset and Annotation Protocol
+
 The dataset consists of 2,500 clinical images of skin lesions annotated with Mean Opinion Scores (MOS) by up to six independent observers. The image quality assessment protocol is based on the following criteria:
 
 - Blur / Focus
@@ -18,7 +25,9 @@ The dataset consists of 2,500 clinical images of skin lesions annotated with Mea
 - Interference
 - General Perception
 
-The PAD-DIQA dataset is available [here](https://data.mendeley.com/datasets/zr7vgbcyr2/1).
+**📥 Dataset Download**
+
+- Access the full dataset: [PAD-DIQA on Mendeley Data](https://data.mendeley.com/datasets/yn4f8nccyt/1)
 
 ## Model
 
