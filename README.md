@@ -18,8 +18,7 @@ The dataset consists of 2,500 clinical images of skin lesions annotated with Mea
 - Interference
 - General Perception
 
-tempo
-For review purposes, the complete images and anotations of the dataset are temporarily available at [Google Drive](https://drive.google.com/drive/u/0/folders/1xi1jHII4YF4P2FfdHVlc37CpqVHwd8MI). Upon acceptance, a permanent dataset repository with full documentation will be made publicly available. 
+The PAD-DIQA dataset is available [here](https://data.mendeley.com/datasets/zr7vgbcyr2/1).
 
 ## Model
 
